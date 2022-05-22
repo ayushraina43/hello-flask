@@ -1,0 +1,6 @@
+Prerequisits
+Azure account 
+GitHub account
+heroku
+Python 
+Flask
